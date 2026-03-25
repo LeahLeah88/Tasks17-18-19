@@ -1,0 +1,8 @@
+<resources>
+    <color name="purple_700">#6750A4</color>
+    <color name="gray_600">#79747E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="nav_item_selected">#6750A4</color>
+    <color name="nav_item_unselected">#79747E</color>
+</resources>
